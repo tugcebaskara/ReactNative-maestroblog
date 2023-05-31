@@ -1,7 +1,5 @@
 # ReactNative-maestroblog
 
-Projenin kısa bir açıklamasını buraya yazabilirsiniz.
-
 ## Özellikler
 
 - Blogların listelendiği bir ekran
