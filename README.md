@@ -37,8 +37,6 @@ Yeni bir dal oluşturun (git checkout -b feature/your-feature).
 Değişikliklerinizi yapın ve bunları commit edin (git commit -am 'Add some feature').
 Dalınıza push yapın (git push origin feature/your-feature).
 Bir Pull Request oluşturun.
-[16:40, 31.05.2023] Softbabe: Kullanım
-Projenin nasıl kullanılacağına dair adımları buraya ekleyebilirsiniz.
 
 Katkıda Bulunma
 Eğer projeye katkıda bulunmak isterseniz, aşağıdaki adımları takip edebilirsiniz:
