@@ -1,2 +1,2 @@
-# ReactNative-maestroblog
+# React-Native-BlogApp
  
